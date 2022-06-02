@@ -9,4 +9,4 @@ The dataset does not have the required features directly. Hence, several improta
 - Set the number of units in each layer to 64, 64 and 32 respectively. 
 - Set the activation to be "relu".
 - Set the optimizer as adam with a learning rate of 0.001.
-- Fit the model to the training data for 200 epochs.
+- Fit the model to the training data for 200 epochs."# Data-Analytics-Project" 
